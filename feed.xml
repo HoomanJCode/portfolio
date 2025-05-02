@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Hooman&#x27;s Portfolio</title>
-    <link href="https://hoomanjcode.github.io/portfolio/feed.xml" rel="self" />
-    <link href="https://hoomanjcode.github.io/portfolio" />
-    <updated>2025-05-02T22:32:40+03:30</updated>
+    <link href="https://hooman.jalalpoor.com/feed.xml" rel="self" />
+    <link href="https://hooman.jalalpoor.com" />
+    <updated>2025-05-03T00:12:30+03:30</updated>
     <author>
         <name>Hooman Jalalpoor</name>
     </author>
-    <id>https://hoomanjcode.github.io/portfolio</id>
+    <id>https://hooman.jalalpoor.com</id>
 
     <entry>
         <title>FxPlanet: Random Planet Generator State of the Art!</title>
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/fxplanet-random-planet-generator-state-of-the-art/"/>
-        <id>https://hoomanjcode.github.io/portfolio/fxplanet-random-planet-generator-state-of-the-art/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/9/QmdWpUxUVXXzN5ZKEdAHAAYTjbWm3K92C4M1BnXRdfubNX-1.png" medium="image" />
+        <link href="https://hooman.jalalpoor.com/fxplanet-random-planet-generator-state-of-the-art/"/>
+        <id>https://hooman.jalalpoor.com/fxplanet-random-planet-generator-state-of-the-art/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/9/QmdWpUxUVXXzN5ZKEdAHAAYTjbWm3K92C4M1BnXRdfubNX-1.png" medium="image" />
             <category term="Unity"/>
             <category term="Performance"/>
             <category term="NFT"/>
@@ -26,25 +26,27 @@
         <updated>2025-05-02T21:51:54+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/9/QmdWpUxUVXXzN5ZKEdAHAAYTjbWm3K92C4M1BnXRdfubNX-1.png" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/9/QmdWpUxUVXXzN5ZKEdAHAAYTjbWm3K92C4M1BnXRdfubNX-1.png" alt="" />
                     The world of NFTs continues to evolve, pushing the boundaries of digital&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/9/QmdWpUxUVXXzN5ZKEdAHAAYTjbWm3K92C4M1BnXRdfubNX-1.png" class="type:primaryImage" alt="" /></p>
-                <p>The world of NFTs continues to evolve, pushing the boundaries of digital art and creativity. One of the most exciting projects in the generative art space is FxPlanet, a 3D NFT generative collection built on the Tezos ꜩ blockchain.</p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/9/QmdWpUxUVXXzN5ZKEdAHAAYTjbWm3K92C4M1BnXRdfubNX-1.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><video loading="lazy" width="680" height="335" style="width: 680px; height: 335px;" controls="controls" data-mce-fragment="1">
+<source src="https://github.com/user-attachments/assets/0fb1fd6b-dd0b-4407-9444-4502dd058464" /></video></figure>
+<p>The world of NFTs continues to evolve, pushing the boundaries of digital art and creativity. One of the most exciting projects in the generative art space is FxPlanet, a 3D NFT generative collection built on the Tezos ꜩ blockchain.</p>
 <p>The world of NFTs continues to evolve, pushing the boundaries of digital art and creativity. One of the most exciting projects in the generative art space is <strong>FxPlanet</strong>, a <strong>3D NFT generative collection</strong> built on the <strong>Tezos ꜩ blockchain</strong>. With a total of <strong>2000 unique, intricately designed planets</strong>, this collection showcases the perfect blend of art, technology, and procedural generation.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/Qmcy34HZkxi6qmhv55VKMLVPz9TTDEoNkVTNN2Ngat9uxL.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/Qmcy34HZkxi6qmhv55VKMLVPz9TTDEoNkVTNN2Ngat9uxL-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmTaUoK6TRmbakdDvTQyTjzaD2YDY6KFsbDDfgrtDzoArz.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmTaUoK6TRmbakdDvTQyTjzaD2YDY6KFsbDDfgrtDzoArz-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmeAN3wPjAcHi7AA18erb3d8CcCkxZngN2U2vL5iFTQcKP.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmeAN3wPjAcHi7AA18erb3d8CcCkxZngN2U2vL5iFTQcKP-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmRESqH4KvfUYtd5uob4F1HAzHdE6sweSgsHkLqxz5NES4.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmRESqH4KvfUYtd5uob4F1HAzHdE6sweSgsHkLqxz5NES4-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmWRGsYVPeq84J9KLUJcYr25j6L7NyhbcFnn7KadSQeJ8Q.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmWRGsYVPeq84J9KLUJcYr25j6L7NyhbcFnn7KadSQeJ8Q-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmQv7MHBKF19sFa19Xz2PZKbjMFssEhU1wsyvWGC1shUMB.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmQv7MHBKF19sFa19Xz2PZKbjMFssEhU1wsyvWGC1shUMB-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmbNVyjL6vdD9gGSVzKRqwiLWuzZgGsRjSTWaf4Na9WuMd.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmbNVyjL6vdD9gGSVzKRqwiLWuzZgGsRjSTWaf4Na9WuMd-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmdmvNEampzZhHZnyr9wAxfaviwjsum3pSeM4fh1eQfmpL.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/QmdmvNEampzZhHZnyr9wAxfaviwjsum3pSeM4fh1eQfmpL-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/Qmf8ZMakAgyhPZKVkk28Y9U4cs3KkvXjL8Utiu9Spt47Uk.webp" data-size="1000x1000"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/9/gallery/Qmf8ZMakAgyhPZKVkk28Y9U4cs3KkvXjL8Utiu9Spt47Uk-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/Qmcy34HZkxi6qmhv55VKMLVPz9TTDEoNkVTNN2Ngat9uxL.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/Qmcy34HZkxi6qmhv55VKMLVPz9TTDEoNkVTNN2Ngat9uxL-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmTaUoK6TRmbakdDvTQyTjzaD2YDY6KFsbDDfgrtDzoArz.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmTaUoK6TRmbakdDvTQyTjzaD2YDY6KFsbDDfgrtDzoArz-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmeAN3wPjAcHi7AA18erb3d8CcCkxZngN2U2vL5iFTQcKP.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmeAN3wPjAcHi7AA18erb3d8CcCkxZngN2U2vL5iFTQcKP-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmRESqH4KvfUYtd5uob4F1HAzHdE6sweSgsHkLqxz5NES4.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmRESqH4KvfUYtd5uob4F1HAzHdE6sweSgsHkLqxz5NES4-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmWRGsYVPeq84J9KLUJcYr25j6L7NyhbcFnn7KadSQeJ8Q.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmWRGsYVPeq84J9KLUJcYr25j6L7NyhbcFnn7KadSQeJ8Q-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmQv7MHBKF19sFa19Xz2PZKbjMFssEhU1wsyvWGC1shUMB.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmQv7MHBKF19sFa19Xz2PZKbjMFssEhU1wsyvWGC1shUMB-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmbNVyjL6vdD9gGSVzKRqwiLWuzZgGsRjSTWaf4Na9WuMd.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmbNVyjL6vdD9gGSVzKRqwiLWuzZgGsRjSTWaf4Na9WuMd-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/QmdmvNEampzZhHZnyr9wAxfaviwjsum3pSeM4fh1eQfmpL.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/QmdmvNEampzZhHZnyr9wAxfaviwjsum3pSeM4fh1eQfmpL-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/9/gallery/Qmf8ZMakAgyhPZKVkk28Y9U4cs3KkvXjL8Utiu9Spt47Uk.webp" data-size="1000x1000"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/9/gallery/Qmf8ZMakAgyhPZKVkk28Y9U4cs3KkvXjL8Utiu9Spt47Uk-thumbnail.webp" alt="" width="768" height="768"></a></figure>
 </div></div>
 <h2 id="the-technology-behind-fxplanet">The Technology Behind FxPlanet</h2>
 <p><strong>FxPlanet</strong> is not just another NFT collection—it’s an <strong>innovative fusion of Unity and complex procedural algorithms</strong>. The project took an immense amount of <strong>time, dedication, and technical expertise</strong> to perfect, especially when it came to refining the planet textures.</p>
@@ -88,8 +90,8 @@
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/boost-your-unity-development-with-concurrenttools-package/"/>
-        <id>https://hoomanjcode.github.io/portfolio/boost-your-unity-development-with-concurrenttools-package/</id>
+        <link href="https://hooman.jalalpoor.com/boost-your-unity-development-with-concurrenttools-package/"/>
+        <id>https://hooman.jalalpoor.com/boost-your-unity-development-with-concurrenttools-package/</id>
             <category term="Unity"/>
             <category term="Tools"/>
             <category term="Performance"/>
@@ -178,8 +180,8 @@ EnumeratorRunner.Run(LongProcess, (result) =&gt;
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/menuview-package-in-unity-simple-menu-management-tool/"/>
-        <id>https://hoomanjcode.github.io/portfolio/menuview-package-in-unity-simple-menu-management-tool/</id>
+        <link href="https://hooman.jalalpoor.com/menuview-package-in-unity-simple-menu-management-tool/"/>
+        <id>https://hooman.jalalpoor.com/menuview-package-in-unity-simple-menu-management-tool/</id>
             <category term="Unity"/>
             <category term="Tools"/>
             <category term="Open-Source"/>
@@ -318,9 +320,9 @@ public class PauseMenu : MenuView
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/hecsgravitysim-a-high-performance-gravity-simulation-in-unity/"/>
-        <id>https://hoomanjcode.github.io/portfolio/hecsgravitysim-a-high-performance-gravity-simulation-in-unity/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/6/Capture-1.png" medium="image" />
+        <link href="https://hooman.jalalpoor.com/hecsgravitysim-a-high-performance-gravity-simulation-in-unity/"/>
+        <id>https://hooman.jalalpoor.com/hecsgravitysim-a-high-performance-gravity-simulation-in-unity/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/6/Capture-1.png" medium="image" />
             <category term="Unity"/>
             <category term="Performance"/>
             <category term="Open-Source"/>
@@ -330,16 +332,18 @@ public class PauseMenu : MenuView
         <updated>2025-05-02T21:36:44+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/6/Capture-1.png" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/6/Capture-1.png" alt="" />
                     HEcsGravitySim is a multi-threaded gravity simulation using Unity's ECS and Job System&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/6/Capture-1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/6/Capture-1.png" class="type:primaryImage" alt="" /></p>
                 <p>HEcsGravitySim is a multi-threaded gravity simulation using Unity's ECS and Job System for real-time performance. 🚀</p>
 <h2 id="introduction">Introduction</h2>
 <p>Gravity simulations are computationally expensive, especially when dealing with numerous objects. In this project, <strong>HEcsGravitySim</strong>, we tackle this challenge using <strong>Unity's ECS (Entity Component System)</strong> and <strong>Job System</strong> to leverage multi-threading for real-time calculations. Instead of processing thousands of gravitational interactions on a single thread, which would be highly inefficient, we distribute the computations across multiple threads for a significant performance boost.</p>
+<figure class="post__video"><video loading="lazy" width="684" height="338" style="width: 631px; height: 311px;" controls="controls" data-mce-fragment="1">
+<source src="https://github.com/user-attachments/assets/3ef2e3f1-cb73-4b02-a339-d9cf132155c9" /></video></figure>
 <h2 id="the-problem-gravity-calculation-bottleneck">The Problem: Gravity Calculation Bottleneck</h2>
 <p>In a naive implementation of a gravity simulation, each planet applies a force to every other planet. This results in a <strong>nested loop</strong> with <strong>O(n²) complexity</strong>, where each frame requires computing forces for every pair of planets. With <strong>1000 planets</strong>, this means 1,000,000 force calculations per frame! Running this on a single thread would lead to severe performance issues.</p>
 <h2 id="the-solution-multi-threading-and-data-oriented-programming">The Solution: Multi-Threading and Data-Oriented Programming</h2>
@@ -422,9 +426,9 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/rainy-cloud-a-melancholic-yet-hopeful-puzzle-adventure/"/>
-        <id>https://hoomanjcode.github.io/portfolio/rainy-cloud-a-melancholic-yet-hopeful-puzzle-adventure/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/5/ZLORDr.jpg" medium="image" />
+        <link href="https://hooman.jalalpoor.com/rainy-cloud-a-melancholic-yet-hopeful-puzzle-adventure/"/>
+        <id>https://hooman.jalalpoor.com/rainy-cloud-a-melancholic-yet-hopeful-puzzle-adventure/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/5/ZLORDr.jpg" medium="image" />
             <category term="Unity"/>
             <category term="GameJam"/>
             <category term="Game"/>
@@ -432,13 +436,13 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <updated>2025-05-02T21:00:47+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/5/ZLORDr.jpg" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/5/ZLORDr.jpg" alt="" />
                     Rainy Cloud is an atmospheric 2D puzzle game born from the Brackeys&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/5/ZLORDr.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/5/ZLORDr.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Rainy Cloud is an atmospheric 2D puzzle game born from the Brackeys Game Jam 2021.1. Created in just seven days by a small team, it blends chaos and serenity, offering a unique, emotionally charged experience that stays with players long after gameplay.</p>
 <h2 id="introduction">Introduction</h2>
 <p>Game jams are a breeding ground for innovation, where developers push their limits under extreme time constraints. Among the many titles born from such creative pressure, <em>Rainy Cloud</em> stands out as an emotionally charged, atmospheric 2D puzzle game that encapsulates both chaos and serenity. Developed during the <strong>Brackeys Game Jam 2021.1</strong>, this prototype is a testament to what a small team can achieve in just <strong>seven days</strong>.</p>
@@ -459,12 +463,12 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
 <p>The game seamlessly integrates these mechanics into puzzles that require players to think critically. Whether it’s triggering a mechanism to unlock a new path or coordinating actions to escape rising water, every decision counts.</p>
 <p>The ticking pressure of the flood adds an element of urgency—forcing players to balance exploration with efficiency. The result? A tense yet rewarding gameplay experience that makes every victory feel hard-earned.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/UkdF_-1.png" data-size="1000x489"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/UkdF_-1-thumbnail.png" alt="" width="768" height="376"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/mPFAT3.png" data-size="1000x489"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/mPFAT3-thumbnail.png" alt="" width="768" height="376"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/ugy3FH.png" data-size="1000x485"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/ugy3FH-thumbnail.png" alt="" width="768" height="372"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/KqqqmE.png" data-size="1000x486"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/KqqqmE-thumbnail.png" alt="" width="768" height="373"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/t4ZtEt.png" data-size="1000x625"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/t4ZtEt-thumbnail.png" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/eX2mxi.png" data-size="1000x625"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/5/gallery/eX2mxi-thumbnail.png" alt="" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/5/gallery/UkdF_-1.png" data-size="1000x489"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/5/gallery/UkdF_-1-thumbnail.png" alt="" width="768" height="376"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/5/gallery/mPFAT3.png" data-size="1000x489"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/5/gallery/mPFAT3-thumbnail.png" alt="" width="768" height="376"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/5/gallery/ugy3FH.png" data-size="1000x485"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/5/gallery/ugy3FH-thumbnail.png" alt="" width="768" height="372"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/5/gallery/KqqqmE.png" data-size="1000x486"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/5/gallery/KqqqmE-thumbnail.png" alt="" width="768" height="373"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/5/gallery/t4ZtEt.png" data-size="1000x625"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/5/gallery/t4ZtEt-thumbnail.png" alt="" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/5/gallery/eX2mxi.png" data-size="1000x625"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/5/gallery/eX2mxi-thumbnail.png" alt="" width="768" height="480"></a></figure>
 </div></div>
 <h2 id="art-sound-a-dreamlike-atmosphere">Art &amp; Sound: A Dreamlike Atmosphere</h2>
 <p>Mahdi Motazedi, the game’s artist and animator, has crafted a world that is both whimsical and melancholic. The stark contrast between the glowing fox and the dark, rain-drenched surroundings heightens the sense of isolation, while the fluid animations add a layer of realism to the characters' emotions.</p>
@@ -498,9 +502,9 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/balls-of-chaos-a-game-jam-triumph-in-100-seconds-of-mayhem/"/>
-        <id>https://hoomanjcode.github.io/portfolio/balls-of-chaos-a-game-jam-triumph-in-100-seconds-of-mayhem/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/4/1GE-kJ.png" medium="image" />
+        <link href="https://hooman.jalalpoor.com/balls-of-chaos-a-game-jam-triumph-in-100-seconds-of-mayhem/"/>
+        <id>https://hooman.jalalpoor.com/balls-of-chaos-a-game-jam-triumph-in-100-seconds-of-mayhem/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/4/1GE-kJ.png" medium="image" />
             <category term="Unity"/>
             <category term="GameJam"/>
             <category term="Game"/>
@@ -508,13 +512,13 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <updated>2025-05-02T20:40:07+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/4/1GE-kJ.png" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/4/1GE-kJ.png" alt="" />
                     Survive 100 seconds of chaos in Balls of Chaos, a fast-paced bullet-hell&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/4/1GE-kJ.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/4/1GE-kJ.png" class="type:primaryImage" alt="" /></p>
                 <p>Survive 100 seconds of chaos in Balls of Chaos, a fast-paced bullet-hell arcade game. Strategize, dodge, and outlast an endless swarm of balls!</p>
 <h2 id="a-high-speed-descent-into-chaos">A High-Speed Descent into Chaos</h2>
 <p>Imagine stepping into an arena where the only rule is survival. The clock is ticking, the walls are closing in, and an ever-growing swarm of balls threatens to consume everything in sight. Welcome to <em>Balls of Chaos</em>, a relentless bullet-hell arcade experience that blends strategy, reflexes, and sheer nerve into 100 seconds of escalating madness.</p>
@@ -581,9 +585,9 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/impasse-a-puzzle-action-gem-born-from-collaboration-and-hope/"/>
-        <id>https://hoomanjcode.github.io/portfolio/impasse-a-puzzle-action-gem-born-from-collaboration-and-hope/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/3/mj5ceJ.png" medium="image" />
+        <link href="https://hooman.jalalpoor.com/impasse-a-puzzle-action-gem-born-from-collaboration-and-hope/"/>
+        <id>https://hooman.jalalpoor.com/impasse-a-puzzle-action-gem-born-from-collaboration-and-hope/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/3/mj5ceJ.png" medium="image" />
             <category term="Unity"/>
             <category term="GameJam"/>
             <category term="Game"/>
@@ -591,13 +595,13 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <updated>2025-05-02T03:03:27+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/3/mj5ceJ.png" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/3/mj5ceJ.png" alt="" />
                     Impasse: A 2D puzzle-action game by Hooman &amp; Hesam Jalalpoor, born from&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/3/mj5ceJ.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/3/mj5ceJ.png" class="type:primaryImage" alt="" /></p>
                 <p>Impasse: A 2D puzzle-action game by Hooman &amp; Hesam Jalalpoor, born from a game jam, blending strategy, art, and emotion.</p>
 <p><strong>Introduction</strong></p>
 <p>In the bustling world of indie game development, few stories resonate as deeply as those born from passion, tight deadlines, and creative synergy. <em>Impasse</em>, a 2D isometric puzzle-action game developed during a game jam, is one such story. Created by <strong>Hooman Jalalpoor</strong> (programmer/Unity developer) and <strong>Hesam Jalalpoor</strong> (music, SFX, and artist), this prototype earned <strong>1st place</strong> at Isfahan University’s Game Dev Camp Final Jam. With its unique blend of strategic gameplay, emotional storytelling, and striking art, <em>Impasse</em> stands as a testament to what small teams can achieve under pressure.</p>
@@ -607,9 +611,9 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
 <hr>
 <p><strong>The Story: A Tale of Friendship and Hope</strong><br><em>Impasse</em> centers on two friends navigating a world fraught with challenges. Tasked with battling a formidable boss, the duo must rely on teamwork and ingenuity to survive. The game’s narrative, inspired by the jam’s theme of <strong>“Hope,”</strong> weaves a heartfelt story about perseverance and trust. Players are drawn into a minimalist yet evocative world where solving puzzles isn’t just about progression—it’s about rekindling hope in the face of despair.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/N-MlQ6-1.png" data-size="306x500"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/N-MlQ6-1-thumbnail.png" alt="" width="306" height="500"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/KExCwP.gif" data-size="272x480"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/KExCwP.gif" alt=""></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/_yWHlB.gif" data-size="272x480"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/_yWHlB.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/3/gallery/N-MlQ6-1.png" data-size="306x500"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/3/gallery/N-MlQ6-1-thumbnail.png" alt="" width="306" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/3/gallery/KExCwP.gif" data-size="272x480"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/3/gallery/KExCwP.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/3/gallery/_yWHlB.gif" data-size="272x480"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/3/gallery/_yWHlB.gif" alt=""></a></figure>
 </div></div>
 <p><strong>Gameplay Mechanics and Game Design</strong><br>Blending puzzle-solving with action-packed combat, <em>Impasse</em> offers a fresh take on the genre:</p>
 <ul>
@@ -637,7 +641,7 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
 </li>
 <li><strong>Prototype Scope</strong>: Designed as a jam game, <em>Impasse</em> balances polish with creative experimentation, leaving room for future expansion.</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://hoomanjcode.github.io/portfolio/media/posts/3/LGtbF1.gif" alt="" width="600" height="335"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hooman.jalalpoor.com/media/posts/3/LGtbF1.gif" alt="" width="600" height="335"></figure>
 <p><strong>Reception and Legacy</strong><br><em>Impasse</em>’s accolades speak volumes:</p>
 <ul>
 <li>🏆 <strong>1st Place</strong> at Isfahan University’s Game Dev Jam.</li>
@@ -662,9 +666,9 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/generativeart/"/>
-        <id>https://hoomanjcode.github.io/portfolio/generativeart/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" medium="image" />
+        <link href="https://hooman.jalalpoor.com/generativeart/"/>
+        <id>https://hooman.jalalpoor.com/generativeart/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" medium="image" />
             <category term="NFT"/>
             <category term="GenerativeArt"/>
             <category term="Art"/>
@@ -672,13 +676,13 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <updated>2025-05-02T01:12:54+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" alt="" />
                     Exploring Generative Art: A Journey Through My Projects on fxhash Generative art&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Exploring Generative Art: A Journey Through My Projects on fxhash</strong></p>
 <p>Generative art is a fascinating intersection of creativity and technology, where algorithms and code come together to produce unique, ever-evolving visual experiences. As an artist and programmer, I’ve been deeply immersed in this world, creating generative art projects that blend procedural techniques with storytelling and aesthetics. Most of my work is published on <strong>fxhash</strong>, a platform dedicated to generative art, and I’m excited to share some of my projects with you.</p>
 <p>You can explore my artistic journey on my blog: <a href="https://parallax.tez.page"><strong>parallax.tez.page</strong></a>.</p>
@@ -692,28 +696,28 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
 <h4 id="1-taiga"><strong>1. <a href="https://www.fxhash.xyz/generative/24070" target="_blank" rel="noopener noreferrer">Taiga</a></strong></h4>
 <p><em>Taiga</em> is a generative art project inspired by the vast, untamed wilderness of boreal forests. The algorithm creates intricate landscapes filled with towering trees and creatures. Each piece is a snapshot of a serene, otherworldly forest, inviting viewers to lose themselves in its beauty.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/asfh-1.png" data-size="1042x1548"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/asfh-1-thumbnail.png" alt="" width="768" height="1141"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/hjgddl-Copy.png" data-size="1042x1536"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/hjgddl-Copy-thumbnail.png" alt="" width="768" height="1132"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/yjfjh-1.png" data-size="1042x1536"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/yjfjh-1-thumbnail.png" alt="" width="768" height="1132"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/sdhfxjftu-Copy.png" data-size="1042x1536"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/sdhfxjftu-Copy-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/asfh-1.png" data-size="1042x1548"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/asfh-1-thumbnail.png" alt="" width="768" height="1141"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/hjgddl-Copy.png" data-size="1042x1536"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/hjgddl-Copy-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/yjfjh-1.png" data-size="1042x1536"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/yjfjh-1-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/sdhfxjftu-Copy.png" data-size="1042x1536"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/sdhfxjftu-Copy-thumbnail.png" alt="" width="768" height="1132"></a></figure>
 </div></div>
 <h4 id="2-auadream"><strong>2. <a href="https://www.fxhash.xyz/generative/0xdc5f1aDe1204A3CA1f7aEB6A52387f0990a93f61" target="_blank" rel="noopener noreferrer">Auadream</a></strong></h4>
 <p><em>Auadream</em> is a dreamlike exploration of underwater worlds. The algorithm generates abstract aquatic scenes, blending vibrant colors and fluid shapes to create a sense of movement and depth. Each piece feels like a glimpse into a surreal ocean, teeming with life and mystery.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-6-.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-6--thumbnail.png" alt="" width="628" height="911"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-1-.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-1--thumbnail.png" alt="" width="628" height="911"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/media.png" data-size="782x1153"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/media-thumbnail.png" alt="" width="768" height="1132"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-thumbnail.png" alt="" width="628" height="911"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-3-.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-3--thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-6-.png" data-size="628x911"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-6--thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-1-.png" data-size="628x911"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-1--thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/media.png" data-size="782x1153"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/media-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed.png" data-size="628x911"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-3-.png" data-size="628x911"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/unnamed-3--thumbnail.png" alt="" width="628" height="911"></a></figure>
 </div></div>
 <h4 id="3-spradow"><strong>3. <a href="https://www.fxhash.xyz/generative/27592" target="_blank" rel="noopener noreferrer">Spradow</a></strong></h4>
 <p><em>Spradow</em> is a playful take on generative art, combining geometric patterns with organic forms. The algorithm creates dynamic compositions that balance order and chaos, resulting in visually striking pieces that are both structured and spontaneous.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZdAiQdkB1miFUK4hhzihxLLxM7MAGbeQ2f79gkohxyGA.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZdAiQdkB1miFUK4hhzihxLLxM7MAGbeQ2f79gkohxyGA-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmVWJFL5LsPLBhjkia4tY2sfeGKrUWsnDqaP5fm4rVzAqb.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmVWJFL5LsPLBhjkia4tY2sfeGKrUWsnDqaP5fm4rVzAqb-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmf1MYjLo8UfkYGKpQaHDSFbjUHEmYdSu9WmP1U9aGRm2Q.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmf1MYjLo8UfkYGKpQaHDSFbjUHEmYdSu9WmP1U9aGRm2Q-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmdFQKj3yKeu3FvunBrSHiJFJpsGc4584wFncVrRpPx4Au.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmdFQKj3yKeu3FvunBrSHiJFJpsGc4584wFncVrRpPx4Au-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmaz5uv4APGJ5P8XEBuYiMLEGSGJbX9yb7dWqpVJkFyz1v.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmaz5uv4APGJ5P8XEBuYiMLEGSGJbX9yb7dWqpVJkFyz1v-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmZdAiQdkB1miFUK4hhzihxLLxM7MAGbeQ2f79gkohxyGA.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmZdAiQdkB1miFUK4hhzihxLLxM7MAGbeQ2f79gkohxyGA-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmVWJFL5LsPLBhjkia4tY2sfeGKrUWsnDqaP5fm4rVzAqb.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmVWJFL5LsPLBhjkia4tY2sfeGKrUWsnDqaP5fm4rVzAqb-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/Qmf1MYjLo8UfkYGKpQaHDSFbjUHEmYdSu9WmP1U9aGRm2Q.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/Qmf1MYjLo8UfkYGKpQaHDSFbjUHEmYdSu9WmP1U9aGRm2Q-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmdFQKj3yKeu3FvunBrSHiJFJpsGc4584wFncVrRpPx4Au.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmdFQKj3yKeu3FvunBrSHiJFJpsGc4584wFncVrRpPx4Au-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/Qmaz5uv4APGJ5P8XEBuYiMLEGSGJbX9yb7dWqpVJkFyz1v.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/Qmaz5uv4APGJ5P8XEBuYiMLEGSGJbX9yb7dWqpVJkFyz1v-thumbnail.png" alt="" width="533" height="800"></a></figure>
 </div></div>
 <h4 id="4-lfetover"><strong>4. <a href="https://www.fxhash.xyz/generative/25244" target="_blank" rel="noopener noreferrer">Lfetover</a></strong></h4>
 <p><em>Lfetover</em> is a project that explores the concept of remnants and fragments. The algorithm generates abstract compositions that feel like remnants of a forgotten world, blending textures, shapes, and colors to create a sense of nostalgia and intrigue.</p>
@@ -721,11 +725,11 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
 <h4 id="5-once-upon-a-time"><strong>5. <a href="https://www.fxhash.xyz/generative/24721" target="_blank" rel="noopener noreferrer">Once Upon a Time</a></strong></h4>
 <p><em>Once Upon a Time</em> is a storytelling project that uses generative art to create whimsical, fairy-tale-like scenes. Each piece is a unique narrative, filled with magical elements and dreamy landscapes. The algorithm weaves together characters, settings, and events, inviting viewers to imagine their own stories.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="6">
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZsPzHUhmm235idw84GNpceTgkdmtpBQkCkivV6RB2riP.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZsPzHUhmm235idw84GNpceTgkdmtpBQkCkivV6RB2riP-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmRcqX1sHCmxGouRGSVyGLyZgyNwo5Py7jq6d4cjwgVmJm.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmRcqX1sHCmxGouRGSVyGLyZgyNwo5Py7jq6d4cjwgVmJm-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmSaZDCfjageepmvTQUcLZJnCKYXRJiUrYJd1DoCdthmEC.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmSaZDCfjageepmvTQUcLZJnCKYXRJiUrYJd1DoCdthmEC-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmTikictzYKLcLWZ9DHyjDXKsWGuayLLYXJx6tohGh45zb.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmTikictzYKLcLWZ9DHyjDXKsWGuayLLYXJx6tohGh45zb-thumbnail.png" alt="" width="533" height="800"></a></figure>
-<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmUPvg3tt8RzKnneAvjzWQmds54uQtazjrARxspyjbkfmT-2.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmUPvg3tt8RzKnneAvjzWQmds54uQtazjrARxspyjbkfmT-2-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmZsPzHUhmm235idw84GNpceTgkdmtpBQkCkivV6RB2riP.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmZsPzHUhmm235idw84GNpceTgkdmtpBQkCkivV6RB2riP-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmRcqX1sHCmxGouRGSVyGLyZgyNwo5Py7jq6d4cjwgVmJm.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmRcqX1sHCmxGouRGSVyGLyZgyNwo5Py7jq6d4cjwgVmJm-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmSaZDCfjageepmvTQUcLZJnCKYXRJiUrYJd1DoCdthmEC.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmSaZDCfjageepmvTQUcLZJnCKYXRJiUrYJd1DoCdthmEC-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmTikictzYKLcLWZ9DHyjDXKsWGuayLLYXJx6tohGh45zb.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmTikictzYKLcLWZ9DHyjDXKsWGuayLLYXJx6tohGh45zb-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hooman.jalalpoor.com/media/posts/2/gallery/QmUPvg3tt8RzKnneAvjzWQmds54uQtazjrARxspyjbkfmT-2.png" data-size="533x800"><img loading="lazy" src="https://hooman.jalalpoor.com/media/posts/2/gallery/QmUPvg3tt8RzKnneAvjzWQmds54uQtazjrARxspyjbkfmT-2-thumbnail.png" alt="" width="533" height="800"></a></figure>
 </div></div>
 <hr>
 <h3 id="why-fxhash"><strong>Why fxhash?</strong></h3>
@@ -752,20 +756,20 @@ float3 force = math.normalize(direction) * forceMagnitude;</code></pre>
         <author>
             <name>Hooman Jalalpoor</name>
         </author>
-        <link href="https://hoomanjcode.github.io/portfolio/about-me/"/>
-        <id>https://hoomanjcode.github.io/portfolio/about-me/</id>
-        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/1/dfjhkk-2.png" medium="image" />
+        <link href="https://hooman.jalalpoor.com/about-me/"/>
+        <id>https://hooman.jalalpoor.com/about-me/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/1/dfjhkk-2.png" medium="image" />
 
         <updated>2025-05-02T01:02:46+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/1/dfjhkk-2.png" alt="" />
+                        <img src="https://hooman.jalalpoor.com/media/posts/1/dfjhkk-2.png" alt="" />
                     Hi, I’m Hooman Jalalpoor—an Indie Game Programmer, Software Engineer, and Generative Artist. With a deep passion&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/1/dfjhkk-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/1/dfjhkk-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Hi, I’m <strong>Hooman Jalalpoor</strong>—an <strong>Indie Game Programmer</strong>, <strong>Software Engineer</strong>, and <strong>Generative Artist</strong>. With a deep passion for creating immersive and artistic games, I specialize in <strong>game development</strong> using <strong>Unity</strong> and <strong>C#</strong>, as well as crafting unique <strong>generative art</strong> and <strong>NFTs</strong>.</p>
 <p>My journey in game development has been driven by a love for storytelling, creativity, and innovation. I’ve participated in numerous <strong>game jams</strong>, where my team and I created award-winning games like <strong>Impasse</strong>, <strong>Balls of Chaos</strong>, and <strong>Shattered</strong>. These experiences have honed my skills in <strong>game design</strong>, <strong>team collaboration</strong>, and <strong>rapid prototyping</strong>.</p>
 <p>Beyond games, I’ve explored the intersection of art and technology by producing <strong>generative artworks</strong> and <strong>NFTs</strong>, leveraging tools like <strong>JavaScript</strong> and <strong>p5.js</strong>. My work in this space has not only allowed me to express my creativity but also to understand the dynamics of the digital art market.</p>
