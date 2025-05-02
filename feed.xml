@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hooman&#x27;s Portfolio</title>
+    <link href="https://hoomanjcode.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://hoomanjcode.github.io/portfolio" />
+    <updated>2025-05-02T04:18:45+03:30</updated>
+    <author>
+        <name>Hooman Jalalpoor</name>
+    </author>
+    <id>https://hoomanjcode.github.io/portfolio</id>
+
+    <entry>
+        <title>Impasse: A Puzzle-Action Gem Born from Collaboration and Hope</title>
+        <author>
+            <name>Hooman Jalalpoor</name>
+        </author>
+        <link href="https://hoomanjcode.github.io/portfolio/impasse-a-puzzle-action-gem-born-from-collaboration-and-hope/"/>
+        <id>https://hoomanjcode.github.io/portfolio/impasse-a-puzzle-action-gem-born-from-collaboration-and-hope/</id>
+        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/3/mj5ceJ.png" medium="image" />
+
+        <updated>2025-05-02T03:03:27+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/3/mj5ceJ.png" alt="" />
+                    Impasse: A 2D puzzle-action game by Hooman &amp; Hesam Jalalpoor, born from&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/3/mj5ceJ.png" class="type:primaryImage" alt="" /></p>
+                <p>Impasse: A 2D puzzle-action game by Hooman &amp; Hesam Jalalpoor, born from a game jam, blending strategy, art, and emotion.</p>
+<p><strong>Introduction</strong></p>
+<p>In the bustling world of indie game development, few stories resonate as deeply as those born from passion, tight deadlines, and creative synergy. <em>Impasse</em>, a 2D isometric puzzle-action game developed during a game jam, is one such story. Created by <strong>Hooman Jalalpoor</strong> (programmer/Unity developer) and <strong>Hesam Jalalpoor</strong> (music, SFX, and artist), this prototype earned <strong>1st place</strong> at Isfahan University’s Game Dev Camp Final Jam. With its unique blend of strategic gameplay, emotional storytelling, and striking art, <em>Impasse</em> stands as a testament to what small teams can achieve under pressure.</p>
+<blockquote>
+<p><a href="https://hoomanj.itch.io/impasse" target="_blank" rel="noopener noreferrer">Play <em>Impasse</em> on Android</a></p>
+<a href="https://hoomanj.itch.io/impasse" target="_blank" rel="noopener noreferrer">Itch Page of Game</a></blockquote>
+<hr>
+<p><strong>The Story: A Tale of Friendship and Hope</strong><br><em>Impasse</em> centers on two friends navigating a world fraught with challenges. Tasked with battling a formidable boss, the duo must rely on teamwork and ingenuity to survive. The game’s narrative, inspired by the jam’s theme of <strong>“Hope,”</strong> weaves a heartfelt story about perseverance and trust. Players are drawn into a minimalist yet evocative world where solving puzzles isn’t just about progression—it’s about rekindling hope in the face of despair.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/N-MlQ6-1.png" data-size="306x500"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/N-MlQ6-1-thumbnail.png" alt="" width="306" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/KExCwP.gif" data-size="272x480"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/KExCwP.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/_yWHlB.gif" data-size="272x480"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/3/gallery/_yWHlB.gif" alt=""></a></figure>
+</div></div>
+<p><strong>Gameplay Mechanics and Game Design</strong><br>Blending puzzle-solving with action-packed combat, <em>Impasse</em> offers a fresh take on the genre:</p>
+<ul>
+<li><strong>Level Variety</strong>: The game features diverse level designs that evolve as players progress. The first level introduces a <strong>boat-driving segment</strong>, immersing players in an engaging movement-based challenge before transitioning into the core gameplay.</li>
+<li><strong>Isometric Puzzle-Solving</strong>: The main gameplay revolves around an <strong>isometric puzzle system</strong>, where players control two characters simultaneously. Some blocks obstruct movement for one character while allowing the other to pass, requiring strategic coordination to solve each level.</li>
+<li><strong>Boss Battle Mechanics</strong>: The game features a <strong>2D boss fight</strong> sequence, where the player moves between three positions on the screen to dodge the boss’s powerful punches. This mix of action and puzzle-solving keeps gameplay fresh and dynamic.</li>
+<li><strong>Cooperative Elements</strong>: Whether playing solo or switching between characters, teamwork is essential for overcoming obstacles and reaching new areas.</li>
+</ul>
+<p>The game’s jam roots shine through its concise design—every mechanic serves the story and theme.</p>
+<p><strong>Art and Sound: A Feast for the Senses</strong><br>Hesam Jalalpoor’s contributions elevate <em>Impasse</em> into an artistic triumph:</p>
+<ul>
+<li><strong>Visual Style</strong>: The isometric 2D art blends crisp geometry with muted, atmospheric colors, reflecting the game’s tone of struggle and hope. The environments are designed with a minimalist yet detailed approach, featuring soft gradients and carefully crafted textures that give the world a hand-painted feel. Character designs emphasize expressive animations, ensuring that movements feel fluid and natural. The color palette strategically shifts between warm and cool tones, reinforcing the emotional highs and lows of the journey. Lighting effects, subtle shadows, and particle details enhance the immersion, making the world feel alive despite its stylized simplicity.</li>
+<li><strong>Music and SFX</strong>: Hesam’s haunting melodies and immersive sound effects deepen the emotional weight. From the clang of combat to the subtle hum of puzzles, the audio design pulls players into the world.<br>Explore Hesam’s portfolio: <a href="http://hesam.jalalpoor.com/?ref=hooman.jalalpoor.com">hesam.jalalpoor.com</a>.</li>
+</ul>
+<p><strong>Technical Execution: Unity-Powered Precision</strong><br>Hooman Jalalpoor’s technical prowess ensured <em>Impasse</em>’s smooth gameplay:</p>
+<ul>
+<li><strong>What is Unity?</strong>: Unity is a powerful, cross-platform game engine widely used in game development. It offers a robust suite of tools for building both 2D and 3D experiences and is favored for its flexibility, real-time rendering, and support for multiple platforms, including <strong>Android</strong>, where <em>Impasse</em> was developed.</li>
+<li><strong>Unity’s Role in <em>Impasse</em></strong>: Several of Unity’s technical features contributed to the game’s design and execution:
+<ul>
+<li><strong>2D Isometric Rendering Pipeline</strong>: Enabled smooth, perspective-based visuals that enhance the depth of puzzles and environments.</li>
+<li><strong>Physics-Based Interactions</strong>: Allowed for realistic movement mechanics, including the boat-driving section and interactive puzzle elements.</li>
+<li><strong>Animation Tools</strong>: Provided smooth character animations, ensuring natural movement in both puzzle-solving and action sequences.</li>
+<li><strong>Optimization Capabilities</strong>: Helped maintain a stable frame rate and ensure seamless performance on mobile devices.</li>
+</ul>
+</li>
+<li><strong>Prototype Scope</strong>: Designed as a jam game, <em>Impasse</em> balances polish with creative experimentation, leaving room for future expansion.</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://hoomanjcode.github.io/portfolio/media/posts/3/LGtbF1.gif" alt="" width="600" height="335"></figure>
+<p><strong>Reception and Legacy</strong><br><em>Impasse</em>’s accolades speak volumes:</p>
+<ul>
+<li>🏆 <strong>1st Place</strong> at Isfahan University’s Game Dev Jam.</li>
+<li>Praise for its innovative fusion of puzzle mechanics and narrative depth.</li>
+</ul>
+<p>While still a prototype, its success hints at potential for a full release.</p>
+<blockquote><strong>Play <em>Impasse</em> Today!</strong><br>Ready to test your wits and courage? Dive into the demo on <strong>itch.io</strong>:<br><a href="https://hoomanj.itch.io/impasse" target="_blank" rel="noopener noreferrer">Play <em>Impasse</em> on Android</a></blockquote>
+<hr>
+<p><strong>Conclusion: A Glimpse of Indie Game Magic</strong><br><em>Impasse</em> proves that constraints—like time and resources—can spark creativity rather than stifle it. Hooman’s technical mastery and Hesam’s artistic vision create an experience that’s as thoughtful as it is engaging. For puzzle enthusiasts and story-driven gamers alike, <em>Impasse</em> is a prototype with the heart of a full-fledged title—and a promising glimpse into its developers’ futures.</p>
+<hr>
+<p><strong>About the Developers</strong></p>
+<ul>
+<li><strong>Hooman Jalalpoor</strong>: Indie game programmer, Unity specialist, and generative artist. <a href="https://hooman.jalalpoor.com/" rel="noreferrer">Explore his work</a>.</li>
+<li><strong>Hesam Jalalpoor</strong>: Multidisciplinary artist and composer. <a href="http://hesam.jalalpoor.com/?ref=hooman.jalalpoor.com">Visit his portfolio</a>.</li>
+</ul>
+<p>Follow their journeys as they continue to push boundaries in gaming and digital art! 🎮✨</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>GenerativeArt</title>
+        <author>
+            <name>Hooman Jalalpoor</name>
+        </author>
+        <link href="https://hoomanjcode.github.io/portfolio/generativeart/"/>
+        <id>https://hoomanjcode.github.io/portfolio/generativeart/</id>
+        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" medium="image" />
+
+        <updated>2025-05-02T01:12:54+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" alt="" />
+                    Exploring Generative Art: A Journey Through My Projects on fxhash Generative art&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/2/Printable-op6dP6X1iZ39arQWkdm8GZH4BDXH8QhoqMrM6xHzxcECA3AvuTb.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong>Exploring Generative Art: A Journey Through My Projects on fxhash</strong></p>
+<p>Generative art is a fascinating intersection of creativity and technology, where algorithms and code come together to produce unique, ever-evolving visual experiences. As an artist and programmer, I’ve been deeply immersed in this world, creating generative art projects that blend procedural techniques with storytelling and aesthetics. Most of my work is published on <strong>fxhash</strong>, a platform dedicated to generative art, and I’m excited to share some of my projects with you.</p>
+<p>You can explore my artistic journey on my blog: <a href="https://parallax.tez.page"><strong>parallax.tez.page</strong></a>.</p>
+<hr>
+<h3 id="what-is-generative-art"><strong>What is Generative Art?</strong></h3>
+<p>Generative art is a form of digital art where the artist creates a system or algorithm that autonomously generates artwork. Each piece is unique, often influenced by random variables or user inputs. This process allows for endless variations, making every output a one-of-a-kind creation.</p>
+<p>For me, generative art is more than just code—it’s a way to tell stories, evoke emotions, and explore the boundaries of creativity.</p>
+<hr>
+<h3 id="my-generative-art-projects"><strong>My Generative Art Projects</strong></h3>
+<p>Here are some of my projects that I’ve published on <strong>fxhash</strong>:</p>
+<h4 id="1-taiga"><strong>1. <a href="https://www.fxhash.xyz/generative/24070" target="_blank" rel="noopener noreferrer">Taiga</a></strong></h4>
+<p><em>Taiga</em> is a generative art project inspired by the vast, untamed wilderness of boreal forests. The algorithm creates intricate landscapes filled with towering trees and creatures. Each piece is a snapshot of a serene, otherworldly forest, inviting viewers to lose themselves in its beauty.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/asfh-1.png" data-size="1042x1548"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/asfh-1-thumbnail.png" alt="" width="768" height="1141"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/hjgddl-Copy.png" data-size="1042x1536"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/hjgddl-Copy-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/yjfjh-1.png" data-size="1042x1536"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/yjfjh-1-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/sdhfxjftu-Copy.png" data-size="1042x1536"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/sdhfxjftu-Copy-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+</div></div>
+<h4 id="2-auadream"><strong>2. <a href="https://www.fxhash.xyz/generative/0xdc5f1aDe1204A3CA1f7aEB6A52387f0990a93f61" target="_blank" rel="noopener noreferrer">Auadream</a></strong></h4>
+<p><em>Auadream</em> is a dreamlike exploration of underwater worlds. The algorithm generates abstract aquatic scenes, blending vibrant colors and fluid shapes to create a sense of movement and depth. Each piece feels like a glimpse into a surreal ocean, teeming with life and mystery.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-6-.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-6--thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-1-.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-1--thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/media.png" data-size="782x1153"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/media-thumbnail.png" alt="" width="768" height="1132"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-thumbnail.png" alt="" width="628" height="911"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-3-.png" data-size="628x911"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/unnamed-3--thumbnail.png" alt="" width="628" height="911"></a></figure>
+</div></div>
+<h4 id="3-spradow"><strong>3. <a href="https://www.fxhash.xyz/generative/27592" target="_blank" rel="noopener noreferrer">Spradow</a></strong></h4>
+<p><em>Spradow</em> is a playful take on generative art, combining geometric patterns with organic forms. The algorithm creates dynamic compositions that balance order and chaos, resulting in visually striking pieces that are both structured and spontaneous.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZdAiQdkB1miFUK4hhzihxLLxM7MAGbeQ2f79gkohxyGA.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZdAiQdkB1miFUK4hhzihxLLxM7MAGbeQ2f79gkohxyGA-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmVWJFL5LsPLBhjkia4tY2sfeGKrUWsnDqaP5fm4rVzAqb.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmVWJFL5LsPLBhjkia4tY2sfeGKrUWsnDqaP5fm4rVzAqb-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmf1MYjLo8UfkYGKpQaHDSFbjUHEmYdSu9WmP1U9aGRm2Q.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmf1MYjLo8UfkYGKpQaHDSFbjUHEmYdSu9WmP1U9aGRm2Q-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmdFQKj3yKeu3FvunBrSHiJFJpsGc4584wFncVrRpPx4Au.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmdFQKj3yKeu3FvunBrSHiJFJpsGc4584wFncVrRpPx4Au-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmaz5uv4APGJ5P8XEBuYiMLEGSGJbX9yb7dWqpVJkFyz1v.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/Qmaz5uv4APGJ5P8XEBuYiMLEGSGJbX9yb7dWqpVJkFyz1v-thumbnail.png" alt="" width="533" height="800"></a></figure>
+</div></div>
+<h4 id="4-lfetover"><strong>4. <a href="https://www.fxhash.xyz/generative/25244" target="_blank" rel="noopener noreferrer">Lfetover</a></strong></h4>
+<p><em>Lfetover</em> is a project that explores the concept of remnants and fragments. The algorithm generates abstract compositions that feel like remnants of a forgotten world, blending textures, shapes, and colors to create a sense of nostalgia and intrigue.</p>
+<figure class="align-center"><img loading="lazy"  src="https://hooman.jalalpoor.com/content/images/2025/03/Printable-34072680.jpg" width="473" height="315" data-is-external-image="true"></figure>
+<h4 id="5-once-upon-a-time"><strong>5. <a href="https://www.fxhash.xyz/generative/24721" target="_blank" rel="noopener noreferrer">Once Upon a Time</a></strong></h4>
+<p><em>Once Upon a Time</em> is a storytelling project that uses generative art to create whimsical, fairy-tale-like scenes. Each piece is a unique narrative, filled with magical elements and dreamy landscapes. The algorithm weaves together characters, settings, and events, inviting viewers to imagine their own stories.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="6">
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZsPzHUhmm235idw84GNpceTgkdmtpBQkCkivV6RB2riP.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmZsPzHUhmm235idw84GNpceTgkdmtpBQkCkivV6RB2riP-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmRcqX1sHCmxGouRGSVyGLyZgyNwo5Py7jq6d4cjwgVmJm.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmRcqX1sHCmxGouRGSVyGLyZgyNwo5Py7jq6d4cjwgVmJm-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmSaZDCfjageepmvTQUcLZJnCKYXRJiUrYJd1DoCdthmEC.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmSaZDCfjageepmvTQUcLZJnCKYXRJiUrYJd1DoCdthmEC-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmTikictzYKLcLWZ9DHyjDXKsWGuayLLYXJx6tohGh45zb.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmTikictzYKLcLWZ9DHyjDXKsWGuayLLYXJx6tohGh45zb-thumbnail.png" alt="" width="533" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmUPvg3tt8RzKnneAvjzWQmds54uQtazjrARxspyjbkfmT-2.png" data-size="533x800"><img loading="lazy" src="https://hoomanjcode.github.io/portfolio/media/posts/2/gallery/QmUPvg3tt8RzKnneAvjzWQmds54uQtazjrARxspyjbkfmT-2-thumbnail.png" alt="" width="533" height="800"></a></figure>
+</div></div>
+<hr>
+<h3 id="why-fxhash"><strong>Why fxhash?</strong></h3>
+<p>I chose <strong>fxhash</strong> as the platform for my generative art projects because of its vibrant community and commitment to supporting artists. The platform allows me to share my work with a global audience and connect with other creators who share my passion for generative art.</p>
+<p>Each project on fxhash is minted as a unique NFT, ensuring that every piece is one-of-a-kind. This adds an extra layer of value and authenticity to the artwork, making it a truly special experience for collectors.</p>
+<hr>
+<h3 id="the-process-behind-the-art"><strong>The Process Behind the Art</strong></h3>
+<p>Creating generative art is a deeply iterative process. It starts with an idea—a story, a feeling, or a visual concept. From there, I write code to bring that idea to life, experimenting with algorithms, parameters, and visual elements until the artwork feels just right.</p>
+<p>The beauty of generative art lies in its unpredictability. Even as the creator, I’m often surprised by the outputs, discovering new patterns and possibilities with each iteration.</p>
+<hr>
+<h3 id="explore-my-work"><strong>Explore My Work</strong></h3>
+<p>If you’re curious to see more of my generative art projects, head over to my blog: <a href="https://parallax.tez.page/?ref=hooman.jalalpoor.com"><strong>parallax.tez.page</strong></a>. You’ll find detailed descriptions, behind-the-scenes insights, and links to my fxhash collections.</p>
+<figure class="align-center"><img loading="lazy"  src="https://lh4.googleusercontent.com/0FH3q9LDCVZYtXWoShrnSydbloqV_c1JgZWqrC_IojaJ-EqM_2fep3Q1MQCCgOWOPHyxvylXsY77D_Snp8B3PDTAJ-MGT5gLayGhr1UHocJKnkd_LK6YYsKkGnqFXLmZTg=w1280" width="260" height="280" data-is-external-image="true"></figure>
+<p>Generative art is a journey, and I’m thrilled to have you along for the ride. Whether you’re an artist, a collector, or simply someone who appreciates the beauty of code-driven creativity, I hope my work inspires you to see the world in new and unexpected ways.</p>
+<blockquote>
+<p><a href="https://www.fxhash.xyz/u/Parallax%20Rendering" target="_blank" rel="noopener noreferrer">FxHash Page</a></p>
+</blockquote>
+<p>Let’s continue to push the boundaries of art and technology together. Follow my journey on <strong>fxhash</strong> and <strong>parallax.tez.page</strong>, and stay tuned for more generative art projects in the future!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Hooman Jalalpoor</name>
+        </author>
+        <link href="https://hoomanjcode.github.io/portfolio/about-me/"/>
+        <id>https://hoomanjcode.github.io/portfolio/about-me/</id>
+        <media:content url="https://hoomanjcode.github.io/portfolio/media/posts/1/dfjhkk-2.png" medium="image" />
+
+        <updated>2025-05-02T01:02:46+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hoomanjcode.github.io/portfolio/media/posts/1/dfjhkk-2.png" alt="" />
+                    Hi, I’m Hooman Jalalpoor—an Indie Game Programmer, Software Engineer, and Generative Artist. With a deep passion&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hoomanjcode.github.io/portfolio/media/posts/1/dfjhkk-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Hi, I’m <strong>Hooman Jalalpoor</strong>—an <strong>Indie Game Programmer</strong>, <strong>Software Engineer</strong>, and <strong>Generative Artist</strong>. With a deep passion for creating immersive and artistic games, I specialize in <strong>game development</strong> using <strong>Unity</strong> and <strong>C#</strong>, as well as crafting unique <strong>generative art</strong> and <strong>NFTs</strong>.</p>
+<p>My journey in game development has been driven by a love for storytelling, creativity, and innovation. I’ve participated in numerous <strong>game jams</strong>, where my team and I created award-winning games like <strong>Impasse</strong>, <strong>Balls of Chaos</strong>, and <strong>Shattered</strong>. These experiences have honed my skills in <strong>game design</strong>, <strong>team collaboration</strong>, and <strong>rapid prototyping</strong>.</p>
+<p>Beyond games, I’ve explored the intersection of art and technology by producing <strong>generative artworks</strong> and <strong>NFTs</strong>, leveraging tools like <strong>JavaScript</strong> and <strong>p5.js</strong>. My work in this space has not only allowed me to express my creativity but also to understand the dynamics of the digital art market.</p>
+<p>I hold a <strong>Master’s degree in Computer Software Engineering</strong>, where I focused on <strong>neural networks</strong> and <strong>blockchain technology</strong> for cryptocurrency price prediction. This academic background has equipped me with a strong foundation in <strong>machine learning</strong>, <strong>optimization</strong>, and <strong>research</strong>, which I often integrate into my projects.</p>
+<p>Currently, I serve as the <strong>Manager of the Academy of Technical Experiences</strong>, where I oversee program development and foster a learning environment for aspiring technical professionals. This role has allowed me to grow as a leader while sharing my knowledge with others.</p>
+<p>I’m also passionate about education and have created <strong>game-making tutorials in Persian</strong> to help aspiring developers in my community. Although this venture was cut short, I hope to continue creating educational content in the future.</p>
+<p>When I’m not coding or designing games, you’ll find me exploring new technologies, experimenting with procedural art, or brainstorming ideas for my next project. My ultimate goal is to create games and experiences that resonate with players on an emotional and artistic level.</p>
+<p>Let’s connect and create something amazing together!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

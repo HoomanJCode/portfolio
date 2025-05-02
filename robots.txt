@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hoomanjcode.github.io/portfolio/sitemap.xml
