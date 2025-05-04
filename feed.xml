@@ -3,7 +3,7 @@
     <title>Hooman&#x27;s Portfolio</title>
     <link href="https://hooman.jalalpoor.com/feed.xml" rel="self" />
     <link href="https://hooman.jalalpoor.com" />
-    <updated>2025-05-02T22:32:40+03:30</updated>
+    <updated>2025-05-05T02:33:33+03:30</updated>
     <author>
         <name>Hooman Jalalpoor</name>
     </author>
@@ -87,16 +87,19 @@
         </author>
         <link href="https://hooman.jalalpoor.com/boost-your-unity-development-with-concurrenttools-package/"/>
         <id>https://hooman.jalalpoor.com/boost-your-unity-development-with-concurrenttools-package/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/8/download.png" medium="image" />
             <category term="Tools"/>
 
         <updated>2025-05-02T21:50:02+03:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://hooman.jalalpoor.com/media/posts/8/download.png" alt="" />
                     In game development, handling asynchronous tasks efficiently is crucial for maintaining smooth&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/8/download.png" class="type:primaryImage" alt="" /></p>
                 <p>In game development, handling asynchronous tasks efficiently is crucial for maintaining smooth gameplay and responsive UI interactions. Unity's built-in coroutine system is helpful, but it lacks robust support for task concurrency and thread safety.</p>
 <h2 id="introduction">Introduction</h2>
 <p>In game development, handling asynchronous tasks efficiently is crucial for maintaining smooth gameplay and responsive UI interactions. Unity's built-in coroutine system is helpful, but it lacks robust support for task concurrency and thread safety. That's where <strong>ConcurrentTools-Package</strong> comes in—a simple yet powerful task management tool designed to help developers run tasks asynchronously, schedule delayed executions, and manage concurrency seamlessly.</p>
@@ -174,16 +177,19 @@ EnumeratorRunner.Run(LongProcess, (result) =&gt;
         </author>
         <link href="https://hooman.jalalpoor.com/menuview-package-in-unity-simple-menu-management-tool/"/>
         <id>https://hooman.jalalpoor.com/menuview-package-in-unity-simple-menu-management-tool/</id>
+        <media:content url="https://hooman.jalalpoor.com/media/posts/7/website-favicon-for-a-game-developer.png" medium="image" />
             <category term="Tools"/>
 
         <updated>2025-05-02T21:41:03+03:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://hooman.jalalpoor.com/media/posts/7/website-favicon-for-a-game-developer.png" alt="" />
                     This is my simple UnityGameEngine menu management tool and I want to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://hooman.jalalpoor.com/media/posts/7/website-favicon-for-a-game-developer.png" class="type:primaryImage" alt="" /></p>
                 <p>This is my simple UnityGameEngine menu management tool and I want to share it with my friends. You can Create some Menus and switch between them and manage them at multiple layers.</p>
 <h2 id="introduction">Introduction</h2>
 <p>Managing menus efficiently in Unity can be challenging, especially when dealing with a single scene. To simplify this process, I created <strong>MenuView-Package</strong>, a simple and effective menu management tool for Unity Game Engine. With this tool, you can create menus, switch between them quickly using button functions, and manage them across different layers effortlessly.</p>
